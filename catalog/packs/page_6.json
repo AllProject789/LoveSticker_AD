@@ -1,0 +1,83 @@
+{
+  "page": 6,
+  "packs": [
+    {
+      "identifier": 63,
+      "name": "Couple Kissing Stickers 6",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/63/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "52.2 K",
+      "size": "549 KB",
+      "created": "3 years ago",
+      "sticker_count": 30,
+      "details_file": "catalog/pack-details/63.json"
+    },
+    {
+      "identifier": 35,
+      "name": "I Love You And I Miss You Stickers 1",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/35/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "21.89 K",
+      "size": "724 KB",
+      "created": "3 years ago",
+      "sticker_count": 30,
+      "details_file": "catalog/pack-details/35.json"
+    },
+    {
+      "identifier": 7,
+      "name": "So Much Love 2",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/7/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "26.83 K",
+      "size": "512 KB",
+      "created": "3 years ago",
+      "sticker_count": 30,
+      "details_file": "catalog/pack-details/7.json"
+    },
+    {
+      "identifier": 13,
+      "name": "You & I - Daily Talk",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/13/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "26.81 K",
+      "size": "564 KB",
+      "created": "3 years ago",
+      "sticker_count": 30,
+      "details_file": "catalog/pack-details/13.json"
+    },
+    {
+      "identifier": 84,
+      "name": "Baby Stickers 5",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/84/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "26.14 K",
+      "size": "312 KB",
+      "created": "3 years ago",
+      "sticker_count": 18,
+      "details_file": "catalog/pack-details/84.json"
+    },
+    {
+      "identifier": 10,
+      "name": "The Kissing",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/10/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "40.01 K",
+      "size": "403 KB",
+      "created": "3 years ago",
+      "sticker_count": 30,
+      "details_file": "catalog/pack-details/10.json"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "page": 17,
+  "packs": [
+    {
+      "identifier": 265,
+      "name": "Hot Couple Love Stickers 38",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/265/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "12.1 K",
+      "size": "629 KB",
+      "created": "4 years ago",
+      "sticker_count": 21,
+      "details_file": "catalog/pack-details/265.json"
+    },
+    {
+      "identifier": 264,
+      "name": "So Much Love Stickers",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/264/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "2.43 K",
+      "size": "445 KB",
+      "created": "4 years ago",
+      "sticker_count": 30,
+      "details_file": "catalog/pack-details/264.json"
+    },
+    {
+      "identifier": 263,
+      "name": "The Valentine's Couple Stickers",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/263/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "1.31 K",
+      "size": "568 KB",
+      "created": "4 years ago",
+      "sticker_count": 30,
+      "details_file": "catalog/pack-details/263.json"
+    },
+    {
+      "identifier": 262,
+      "name": "Couple Kissing Stickers 21",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/262/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "12.7 K",
+      "size": "842 KB",
+      "created": "4 years ago",
+      "sticker_count": 30,
+      "details_file": "catalog/pack-details/262.json"
+    },
+    {
+      "identifier": 261,
+      "name": "Soulmate - Romantic Couple Stickers",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/261/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "1.18 K",
+      "size": "569 KB",
+      "created": "4 years ago",
+      "sticker_count": 30,
+      "details_file": "catalog/pack-details/261.json"
+    },
+    {
+      "identifier": 260,
+      "name": "Oh My Honey",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/260/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "1.91 K",
+      "size": "754 KB",
+      "created": "4 years ago",
+      "sticker_count": 30,
+      "details_file": "catalog/pack-details/260.json"
+    }
+  ]
+}

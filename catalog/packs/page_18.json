@@ -1,0 +1,83 @@
+{
+  "page": 18,
+  "packs": [
+    {
+      "identifier": 259,
+      "name": "Couple Love Stickers 37",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/259/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "3.21 K",
+      "size": "734 KB",
+      "created": "4 years ago",
+      "sticker_count": 30,
+      "details_file": "catalog/pack-details/259.json"
+    },
+    {
+      "identifier": 258,
+      "name": "Madly About You Love Stickers",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/258/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "1.16 K",
+      "size": "391 KB",
+      "created": "4 years ago",
+      "sticker_count": 30,
+      "details_file": "catalog/pack-details/258.json"
+    },
+    {
+      "identifier": 257,
+      "name": "About Ban 2 Stickers",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/257/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "1.22 K",
+      "size": "396 KB",
+      "created": "4 years ago",
+      "sticker_count": 30,
+      "details_file": "catalog/pack-details/257.json"
+    },
+    {
+      "identifier": 256,
+      "name": "All About You Love Stickers",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/256/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "878",
+      "size": "457 KB",
+      "created": "4 years ago",
+      "sticker_count": 30,
+      "details_file": "catalog/pack-details/256.json"
+    },
+    {
+      "identifier": 255,
+      "name": "About Allen",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/255/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "708",
+      "size": "414 KB",
+      "created": "4 years ago",
+      "sticker_count": 30,
+      "details_file": "catalog/pack-details/255.json"
+    },
+    {
+      "identifier": 254,
+      "name": "Cute Baby Girl Stickers 13 ( Eri Claire Fujie )",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/254/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "2.36 K",
+      "size": "903 KB",
+      "created": "4 years ago",
+      "sticker_count": 30,
+      "details_file": "catalog/pack-details/254.json"
+    }
+  ]
+}

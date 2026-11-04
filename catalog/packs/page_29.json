@@ -1,0 +1,83 @@
+{
+  "page": 29,
+  "packs": [
+    {
+      "identifier": 156,
+      "name": "Anime Stickers 1",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/156/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "1.59 K",
+      "size": "1 MB",
+      "created": "4 years ago",
+      "sticker_count": 30,
+      "details_file": "catalog/pack-details/156.json"
+    },
+    {
+      "identifier": 155,
+      "name": "Love Stickers 19",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/155/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "889",
+      "size": "517 KB",
+      "created": "4 years ago",
+      "sticker_count": 18,
+      "details_file": "catalog/pack-details/155.json"
+    },
+    {
+      "identifier": 154,
+      "name": "Animal Funny Stickers 2",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/154/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "250",
+      "size": "378 KB",
+      "created": "4 years ago",
+      "sticker_count": 18,
+      "details_file": "catalog/pack-details/154.json"
+    },
+    {
+      "identifier": 153,
+      "name": "Princess Stickers 3",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/153/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "630",
+      "size": "745 KB",
+      "created": "4 years ago",
+      "sticker_count": 20,
+      "details_file": "catalog/pack-details/153.json"
+    },
+    {
+      "identifier": 152,
+      "name": "Couple Kissing Stickers 8",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/152/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "3.25 K",
+      "size": "515 KB",
+      "created": "4 years ago",
+      "sticker_count": 17,
+      "details_file": "catalog/pack-details/152.json"
+    },
+    {
+      "identifier": 151,
+      "name": "Couple Hijab Diary Love Stickers 1",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/151/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "2 K",
+      "size": "492 KB",
+      "created": "4 years ago",
+      "sticker_count": 20,
+      "details_file": "catalog/pack-details/151.json"
+    }
+  ]
+}

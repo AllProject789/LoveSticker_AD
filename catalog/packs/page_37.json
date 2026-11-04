@@ -1,0 +1,83 @@
+{
+  "page": 37,
+  "packs": [
+    {
+      "identifier": 131,
+      "name": "Christmas Girl Stickers 4",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/131/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "171",
+      "size": "518 KB",
+      "created": "5 years ago",
+      "sticker_count": 30,
+      "details_file": "catalog/pack-details/131.json"
+    },
+    {
+      "identifier": 132,
+      "name": "Love Stickers 19",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/132/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "1.55 K",
+      "size": "573 KB",
+      "created": "5 years ago",
+      "sticker_count": 18,
+      "details_file": "catalog/pack-details/132.json"
+    },
+    {
+      "identifier": 133,
+      "name": "Love Stickers 20 (Animated)",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/133/tray.png",
+      "premium": "false",
+      "animated": "true",
+      "downloads": "5.04 K",
+      "size": "5 MB",
+      "created": "5 years ago",
+      "sticker_count": 21,
+      "details_file": "catalog/pack-details/133.json"
+    },
+    {
+      "identifier": 134,
+      "name": "Doraemon Stickers 3",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/134/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "447",
+      "size": "744 KB",
+      "created": "5 years ago",
+      "sticker_count": 23,
+      "details_file": "catalog/pack-details/134.json"
+    },
+    {
+      "identifier": 135,
+      "name": "Happy New Year Stickers",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/135/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "338",
+      "size": "905 KB",
+      "created": "5 years ago",
+      "sticker_count": 29,
+      "details_file": "catalog/pack-details/135.json"
+    },
+    {
+      "identifier": 136,
+      "name": "Minions Animated Stickers 1",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/136/tray.png",
+      "premium": "false",
+      "animated": "true",
+      "downloads": "1.03 K",
+      "size": "5 MB",
+      "created": "5 years ago",
+      "sticker_count": 20,
+      "details_file": "catalog/pack-details/136.json"
+    }
+  ]
+}

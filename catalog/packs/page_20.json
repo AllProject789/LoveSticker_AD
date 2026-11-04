@@ -1,0 +1,83 @@
+{
+  "page": 20,
+  "packs": [
+    {
+      "identifier": 237,
+      "name": "Hot Couple Love Stickers 31",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/237/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "4.02 K",
+      "size": "960 KB",
+      "created": "4 years ago",
+      "sticker_count": 25,
+      "details_file": "catalog/pack-details/237.json"
+    },
+    {
+      "identifier": 236,
+      "name": "Hot And Cute Girl Stickers 5",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/236/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "767",
+      "size": "627 KB",
+      "created": "4 years ago",
+      "sticker_count": 25,
+      "details_file": "catalog/pack-details/236.json"
+    },
+    {
+      "identifier": 235,
+      "name": "Couple Kissing Stickers 18",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/235/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "4 K",
+      "size": "891 KB",
+      "created": "4 years ago",
+      "sticker_count": 18,
+      "details_file": "catalog/pack-details/235.json"
+    },
+    {
+      "identifier": 234,
+      "name": "Hot Couple Love Stickers 30",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/234/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "4.72 K",
+      "size": "273 KB",
+      "created": "4 years ago",
+      "sticker_count": 30,
+      "details_file": "catalog/pack-details/234.json"
+    },
+    {
+      "identifier": 232,
+      "name": "Couple Kissing Stickers 17",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/232/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "3.16 K",
+      "size": "404 KB",
+      "created": "4 years ago",
+      "sticker_count": 21,
+      "details_file": "catalog/pack-details/232.json"
+    },
+    {
+      "identifier": 231,
+      "name": "Hot And Cute Girl Stickers 4",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/231/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "789",
+      "size": "539 KB",
+      "created": "4 years ago",
+      "sticker_count": 24,
+      "details_file": "catalog/pack-details/231.json"
+    }
+  ]
+}

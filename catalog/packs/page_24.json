@@ -1,0 +1,83 @@
+{
+  "page": 24,
+  "packs": [
+    {
+      "identifier": 201,
+      "name": "Couple Kissing Stickers 13",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/201/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "3.8 K",
+      "size": "451 KB",
+      "created": "4 years ago",
+      "sticker_count": 12,
+      "details_file": "catalog/pack-details/201.json"
+    },
+    {
+      "identifier": 200,
+      "name": "Couple Love Stickers 23",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/200/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "1.74 K",
+      "size": "527 KB",
+      "created": "4 years ago",
+      "sticker_count": 23,
+      "details_file": "catalog/pack-details/200.json"
+    },
+    {
+      "identifier": 198,
+      "name": "Couple Kissing Stickers 12",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/198/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "1.86 K",
+      "size": "593 KB",
+      "created": "4 years ago",
+      "sticker_count": 25,
+      "details_file": "catalog/pack-details/198.json"
+    },
+    {
+      "identifier": 197,
+      "name": "Love Stickers 27",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/197/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "689",
+      "size": "809 KB",
+      "created": "4 years ago",
+      "sticker_count": 20,
+      "details_file": "catalog/pack-details/197.json"
+    },
+    {
+      "identifier": 196,
+      "name": "Mood Stickers 2",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/196/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "431",
+      "size": "690 KB",
+      "created": "4 years ago",
+      "sticker_count": 27,
+      "details_file": "catalog/pack-details/196.json"
+    },
+    {
+      "identifier": 195,
+      "name": "Anime Hug Stickers 1",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/195/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "5.27 K",
+      "size": "514 KB",
+      "created": "4 years ago",
+      "sticker_count": 20,
+      "details_file": "catalog/pack-details/195.json"
+    }
+  ]
+}

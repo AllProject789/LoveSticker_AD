@@ -1,0 +1,35 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "pack-page.schema.json",
+  "title": "Romantic Sticker Catalog Page",
+  "type": "object",
+  "required": ["page", "packs"],
+  "additionalProperties": false,
+  "properties": {
+    "page": { "type": "integer", "minimum": 0 },
+    "packs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "identifier", "name", "publisher", "tray_image_url", "premium",
+          "animated", "downloads", "size", "created", "sticker_count", "details_file"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "identifier": { "type": ["integer", "string"] },
+          "name": { "type": "string", "minLength": 1 },
+          "publisher": { "type": "string" },
+          "tray_image_url": { "type": "string", "format": "uri" },
+          "premium": { "type": "string" },
+          "animated": { "type": "string" },
+          "downloads": { "type": "string" },
+          "size": { "type": "string" },
+          "created": { "type": "string" },
+          "sticker_count": { "type": "integer", "minimum": 0 },
+          "details_file": { "type": "string", "minLength": 1 }
+        }
+      }
+    }
+  }
+}

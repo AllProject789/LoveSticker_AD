@@ -1,0 +1,83 @@
+{
+  "page": 36,
+  "packs": [
+    {
+      "identifier": 19,
+      "name": "Black Emoji Stickers 1",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/19/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "2.79 K",
+      "size": "397 KB",
+      "created": "5 years ago",
+      "sticker_count": 30,
+      "details_file": "catalog/pack-details/19.json"
+    },
+    {
+      "identifier": 18,
+      "name": "Baby Stickers 1",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/18/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "2.17 K",
+      "size": "299 KB",
+      "created": "5 years ago",
+      "sticker_count": 14,
+      "details_file": "catalog/pack-details/18.json"
+    },
+    {
+      "identifier": 17,
+      "name": "3D Emoji Stickers 2 (Boys)",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/17/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "4.87 K",
+      "size": "144 KB",
+      "created": "5 years ago",
+      "sticker_count": 23,
+      "details_file": "catalog/pack-details/17.json"
+    },
+    {
+      "identifier": 127,
+      "name": "Marry Christmas Stickers 1",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/127/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "128",
+      "size": "366 KB",
+      "created": "5 years ago",
+      "sticker_count": 15,
+      "details_file": "catalog/pack-details/127.json"
+    },
+    {
+      "identifier": 129,
+      "name": "Marry Christmas Stickers 2",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/129/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "246",
+      "size": "513 KB",
+      "created": "5 years ago",
+      "sticker_count": 16,
+      "details_file": "catalog/pack-details/129.json"
+    },
+    {
+      "identifier": 130,
+      "name": "Marry Christmas Stickers 3",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/130/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "148",
+      "size": "558 KB",
+      "created": "5 years ago",
+      "sticker_count": 30,
+      "details_file": "catalog/pack-details/130.json"
+    }
+  ]
+}

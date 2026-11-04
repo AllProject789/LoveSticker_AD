@@ -1,0 +1,83 @@
+{
+  "page": 5,
+  "packs": [
+    {
+      "identifier": 67,
+      "name": "Cute Couple Love Stickers 10",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/67/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "39.82 K",
+      "size": "433 KB",
+      "created": "3 years ago",
+      "sticker_count": 13,
+      "details_file": "catalog/pack-details/67.json"
+    },
+    {
+      "identifier": 88,
+      "name": "Couple Love Stickers 14",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/88/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "45.2 K",
+      "size": "696 KB",
+      "created": "3 years ago",
+      "sticker_count": 20,
+      "details_file": "catalog/pack-details/88.json"
+    },
+    {
+      "identifier": 70,
+      "name": "Couple Love Stickers 11",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/70/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "33.03 K",
+      "size": "484 KB",
+      "created": "3 years ago",
+      "sticker_count": 20,
+      "details_file": "catalog/pack-details/70.json"
+    },
+    {
+      "identifier": 69,
+      "name": "Love Stickers 13",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/69/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "30.69 K",
+      "size": "782 KB",
+      "created": "3 years ago",
+      "sticker_count": 22,
+      "details_file": "catalog/pack-details/69.json"
+    },
+    {
+      "identifier": 93,
+      "name": "Cute Baby Stickers 8",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/93/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "34.03 K",
+      "size": "299 KB",
+      "created": "3 years ago",
+      "sticker_count": 15,
+      "details_file": "catalog/pack-details/93.json"
+    },
+    {
+      "identifier": 15,
+      "name": "You & I - Xoxo",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/15/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "28.83 K",
+      "size": "555 KB",
+      "created": "3 years ago",
+      "sticker_count": 30,
+      "details_file": "catalog/pack-details/15.json"
+    }
+  ]
+}

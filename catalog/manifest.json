@@ -1,0 +1,166 @@
+{
+  "schema_version": 1,
+  "catalog_version": "2026.11.04-100933",
+  "generated_at": "2026-11-04T10:09:33Z",
+  "total_packs": 228,
+  "total_pages": 38,
+  "pages": [
+    {
+      "page": 0,
+      "file": "catalog/packs/page_0.json"
+    },
+    {
+      "page": 1,
+      "file": "catalog/packs/page_1.json"
+    },
+    {
+      "page": 2,
+      "file": "catalog/packs/page_2.json"
+    },
+    {
+      "page": 3,
+      "file": "catalog/packs/page_3.json"
+    },
+    {
+      "page": 4,
+      "file": "catalog/packs/page_4.json"
+    },
+    {
+      "page": 5,
+      "file": "catalog/packs/page_5.json"
+    },
+    {
+      "page": 6,
+      "file": "catalog/packs/page_6.json"
+    },
+    {
+      "page": 7,
+      "file": "catalog/packs/page_7.json"
+    },
+    {
+      "page": 8,
+      "file": "catalog/packs/page_8.json"
+    },
+    {
+      "page": 9,
+      "file": "catalog/packs/page_9.json"
+    },
+    {
+      "page": 10,
+      "file": "catalog/packs/page_10.json"
+    },
+    {
+      "page": 11,
+      "file": "catalog/packs/page_11.json"
+    },
+    {
+      "page": 12,
+      "file": "catalog/packs/page_12.json"
+    },
+    {
+      "page": 13,
+      "file": "catalog/packs/page_13.json"
+    },
+    {
+      "page": 14,
+      "file": "catalog/packs/page_14.json"
+    },
+    {
+      "page": 15,
+      "file": "catalog/packs/page_15.json"
+    },
+    {
+      "page": 16,
+      "file": "catalog/packs/page_16.json"
+    },
+    {
+      "page": 17,
+      "file": "catalog/packs/page_17.json"
+    },
+    {
+      "page": 18,
+      "file": "catalog/packs/page_18.json"
+    },
+    {
+      "page": 19,
+      "file": "catalog/packs/page_19.json"
+    },
+    {
+      "page": 20,
+      "file": "catalog/packs/page_20.json"
+    },
+    {
+      "page": 21,
+      "file": "catalog/packs/page_21.json"
+    },
+    {
+      "page": 22,
+      "file": "catalog/packs/page_22.json"
+    },
+    {
+      "page": 23,
+      "file": "catalog/packs/page_23.json"
+    },
+    {
+      "page": 24,
+      "file": "catalog/packs/page_24.json"
+    },
+    {
+      "page": 25,
+      "file": "catalog/packs/page_25.json"
+    },
+    {
+      "page": 26,
+      "file": "catalog/packs/page_26.json"
+    },
+    {
+      "page": 27,
+      "file": "catalog/packs/page_27.json"
+    },
+    {
+      "page": 28,
+      "file": "catalog/packs/page_28.json"
+    },
+    {
+      "page": 29,
+      "file": "catalog/packs/page_29.json"
+    },
+    {
+      "page": 30,
+      "file": "catalog/packs/page_30.json"
+    },
+    {
+      "page": 31,
+      "file": "catalog/packs/page_31.json"
+    },
+    {
+      "page": 32,
+      "file": "catalog/packs/page_32.json"
+    },
+    {
+      "page": 33,
+      "file": "catalog/packs/page_33.json"
+    },
+    {
+      "page": 34,
+      "file": "catalog/packs/page_34.json"
+    },
+    {
+      "page": 35,
+      "file": "catalog/packs/page_35.json"
+    },
+    {
+      "page": 36,
+      "file": "catalog/packs/page_36.json"
+    },
+    {
+      "page": 37,
+      "file": "catalog/packs/page_37.json"
+    }
+  ],
+  "repository": {
+    "owner": "AllProject789",
+    "name": "LoveSticker_AD",
+    "branch": "main"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "page": 8,
+  "packs": [
+    {
+      "identifier": 45,
+      "name": "Couple Love Stickers 4",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/45/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "16.13 K",
+      "size": "876 KB",
+      "created": "3 years ago",
+      "sticker_count": 30,
+      "details_file": "catalog/pack-details/45.json"
+    },
+    {
+      "identifier": 51,
+      "name": "Couple Kissing Stickers 4",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/51/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "22.42 K",
+      "size": "802 KB",
+      "created": "3 years ago",
+      "sticker_count": 26,
+      "details_file": "catalog/pack-details/51.json"
+    },
+    {
+      "identifier": 57,
+      "name": "Love Stickers 8",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/57/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "14.15 K",
+      "size": "581 KB",
+      "created": "3 years ago",
+      "sticker_count": 15,
+      "details_file": "catalog/pack-details/57.json"
+    },
+    {
+      "identifier": 85,
+      "name": "Cute Couple Love Stickers 13",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/85/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "9.99 K",
+      "size": "670 KB",
+      "created": "3 years ago",
+      "sticker_count": 20,
+      "details_file": "catalog/pack-details/85.json"
+    },
+    {
+      "identifier": 36,
+      "name": "Couple Love Stickers 2",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/36/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "13.48 K",
+      "size": "675 KB",
+      "created": "3 years ago",
+      "sticker_count": 30,
+      "details_file": "catalog/pack-details/36.json"
+    },
+    {
+      "identifier": 83,
+      "name": "Couple Love Stickers 12",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/83/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "8.54 K",
+      "size": "586 KB",
+      "created": "3 years ago",
+      "sticker_count": 20,
+      "details_file": "catalog/pack-details/83.json"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "page": 1,
+  "packs": [
+    {
+      "identifier": 369,
+      "name": "Hot Couple Love Stickers 39 (Animated)",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/369/tray.png",
+      "premium": "true",
+      "animated": "true",
+      "downloads": "3.46 K",
+      "size": "7 MB",
+      "created": "8 months ago",
+      "sticker_count": 20,
+      "details_file": "catalog/pack-details/369.json"
+    },
+    {
+      "identifier": 368,
+      "name": "Couple Kissing Stickers 30",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/368/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "3.21 K",
+      "size": "403 KB",
+      "created": "8 months ago",
+      "sticker_count": 20,
+      "details_file": "catalog/pack-details/368.json"
+    },
+    {
+      "identifier": 367,
+      "name": "Couple Kissing Stickers 29",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/367/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "1.82 K",
+      "size": "352 KB",
+      "created": "8 months ago",
+      "sticker_count": 20,
+      "details_file": "catalog/pack-details/367.json"
+    },
+    {
+      "identifier": 366,
+      "name": "Couple Kissing Stickers 28",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/366/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "1.18 K",
+      "size": "427 KB",
+      "created": "8 months ago",
+      "sticker_count": 20,
+      "details_file": "catalog/pack-details/366.json"
+    },
+    {
+      "identifier": 365,
+      "name": "Couple Kissing Stickers 27",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/365/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "906",
+      "size": "500 KB",
+      "created": "8 months ago",
+      "sticker_count": 20,
+      "details_file": "catalog/pack-details/365.json"
+    },
+    {
+      "identifier": 364,
+      "name": "Couple Kissing Stickers 26",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/364/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "3.42 K",
+      "size": "435 KB",
+      "created": "8 months ago",
+      "sticker_count": 20,
+      "details_file": "catalog/pack-details/364.json"
+    }
+  ]
+}

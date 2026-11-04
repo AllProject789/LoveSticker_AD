@@ -1,0 +1,83 @@
+{
+  "page": 14,
+  "packs": [
+    {
+      "identifier": 289,
+      "name": "Cat Love Stickers 1",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/289/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "292",
+      "size": "403 KB",
+      "created": "3 years ago",
+      "sticker_count": 20,
+      "details_file": "catalog/pack-details/289.json"
+    },
+    {
+      "identifier": 288,
+      "name": "Love Stickers 46",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/288/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "219",
+      "size": "764 KB",
+      "created": "3 years ago",
+      "sticker_count": 15,
+      "details_file": "catalog/pack-details/288.json"
+    },
+    {
+      "identifier": 287,
+      "name": "Love Stickers 45",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/287/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "598",
+      "size": "518 KB",
+      "created": "3 years ago",
+      "sticker_count": 17,
+      "details_file": "catalog/pack-details/287.json"
+    },
+    {
+      "identifier": 286,
+      "name": "Couple Love Stickers 44",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/286/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "1.46 K",
+      "size": "660 KB",
+      "created": "3 years ago",
+      "sticker_count": 19,
+      "details_file": "catalog/pack-details/286.json"
+    },
+    {
+      "identifier": 285,
+      "name": "Love Stickers 43",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/285/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "3.68 K",
+      "size": "655 KB",
+      "created": "3 years ago",
+      "sticker_count": 20,
+      "details_file": "catalog/pack-details/285.json"
+    },
+    {
+      "identifier": 280,
+      "name": "Love Stickers 44 ( Pucchu Panda )",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/280/tray.png",
+      "premium": "true",
+      "animated": "true",
+      "downloads": "1.68 K",
+      "size": "1 MB",
+      "created": "3 years ago",
+      "sticker_count": 19,
+      "details_file": "catalog/pack-details/280.json"
+    }
+  ]
+}

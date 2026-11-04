@@ -1,0 +1,108 @@
+{
+  "identifier": 18,
+  "name": "Baby Stickers 1",
+  "publisher": "Raj Dhakar",
+  "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/18/tray.png",
+  "premium": "true",
+  "animated": "false",
+  "stickers": [
+    {
+      "thumbnail_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/18/thumbnails/001.webp",
+      "image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/18/stickers/001.webp",
+      "emojis": [
+        "😀"
+      ]
+    },
+    {
+      "thumbnail_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/18/thumbnails/002.webp",
+      "image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/18/stickers/002.webp",
+      "emojis": [
+        "😀"
+      ]
+    },
+    {
+      "thumbnail_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/18/thumbnails/003.webp",
+      "image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/18/stickers/003.webp",
+      "emojis": [
+        "😀"
+      ]
+    },
+    {
+      "thumbnail_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/18/thumbnails/004.webp",
+      "image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/18/stickers/004.webp",
+      "emojis": [
+        "😀"
+      ]
+    },
+    {
+      "thumbnail_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/18/thumbnails/005.webp",
+      "image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/18/stickers/005.webp",
+      "emojis": [
+        "😀"
+      ]
+    },
+    {
+      "thumbnail_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/18/thumbnails/006.webp",
+      "image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/18/stickers/006.webp",
+      "emojis": [
+        "😀"
+      ]
+    },
+    {
+      "thumbnail_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/18/thumbnails/007.webp",
+      "image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/18/stickers/007.webp",
+      "emojis": [
+        "😀"
+      ]
+    },
+    {
+      "thumbnail_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/18/thumbnails/008.webp",
+      "image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/18/stickers/008.webp",
+      "emojis": [
+        "😀"
+      ]
+    },
+    {
+      "thumbnail_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/18/thumbnails/009.webp",
+      "image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/18/stickers/009.webp",
+      "emojis": [
+        "😀"
+      ]
+    },
+    {
+      "thumbnail_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/18/thumbnails/010.webp",
+      "image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/18/stickers/010.webp",
+      "emojis": [
+        "😀"
+      ]
+    },
+    {
+      "thumbnail_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/18/thumbnails/011.webp",
+      "image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/18/stickers/011.webp",
+      "emojis": [
+        "😀"
+      ]
+    },
+    {
+      "thumbnail_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/18/thumbnails/012.webp",
+      "image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/18/stickers/012.webp",
+      "emojis": [
+        "😀"
+      ]
+    },
+    {
+      "thumbnail_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/18/thumbnails/013.webp",
+      "image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/18/stickers/013.webp",
+      "emojis": [
+        "😀"
+      ]
+    },
+    {
+      "thumbnail_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/18/thumbnails/014.webp",
+      "image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/18/stickers/014.webp",
+      "emojis": [
+        "😀"
+      ]
+    }
+  ]
+}

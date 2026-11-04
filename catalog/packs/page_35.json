@@ -1,0 +1,83 @@
+{
+  "page": 35,
+  "packs": [
+    {
+      "identifier": 38,
+      "name": "Daily Quote Stickers 1",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/38/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "3.01 K",
+      "size": "413 KB",
+      "created": "5 years ago",
+      "sticker_count": 15,
+      "details_file": "catalog/pack-details/38.json"
+    },
+    {
+      "identifier": 37,
+      "name": "Doraemon Stickers 1",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/37/tray.png",
+      "premium": "true",
+      "animated": "false",
+      "downloads": "2.33 K",
+      "size": "437 KB",
+      "created": "5 years ago",
+      "sticker_count": 15,
+      "details_file": "catalog/pack-details/37.json"
+    },
+    {
+      "identifier": 34,
+      "name": "Romantic Couple Stickers 2",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/34/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "4.27 K",
+      "size": "1 MB",
+      "created": "5 years ago",
+      "sticker_count": 30,
+      "details_file": "catalog/pack-details/34.json"
+    },
+    {
+      "identifier": 29,
+      "name": "Cute Girl Stickers 1",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/29/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "2.56 K",
+      "size": "396 KB",
+      "created": "5 years ago",
+      "sticker_count": 16,
+      "details_file": "catalog/pack-details/29.json"
+    },
+    {
+      "identifier": 21,
+      "name": "3D Emoji Stickers 3 (Girls)",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/21/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "4.36 K",
+      "size": "254 KB",
+      "created": "5 years ago",
+      "sticker_count": 27,
+      "details_file": "catalog/pack-details/21.json"
+    },
+    {
+      "identifier": 26,
+      "name": "Emoji Stickers 2",
+      "publisher": "Raj Dhakar",
+      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/26/tray.png",
+      "premium": "false",
+      "animated": "false",
+      "downloads": "4.31 K",
+      "size": "565 KB",
+      "created": "5 years ago",
+      "sticker_count": 30,
+      "details_file": "catalog/pack-details/26.json"
+    }
+  ]
+}
