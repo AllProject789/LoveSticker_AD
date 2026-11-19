@@ -2,32 +2,6 @@
   "page": 25,
   "packs": [
     {
-      "identifier": 194,
-      "name": "Hot And Cute Girl Stickers 1",
-      "publisher": "Raj Dhakar",
-      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/194/tray.png",
-      "premium": "true",
-      "animated": "false",
-      "downloads": "176",
-      "size": "513 KB",
-      "created": "4 years ago",
-      "sticker_count": 18,
-      "details_file": "catalog/pack-details/194.json"
-    },
-    {
-      "identifier": 189,
-      "name": "Couple Kissing Stickers 11",
-      "publisher": "Raj Dhakar",
-      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/189/tray.png",
-      "premium": "true",
-      "animated": "false",
-      "downloads": "1.49 K",
-      "size": "207 KB",
-      "created": "4 years ago",
-      "sticker_count": 24,
-      "details_file": "catalog/pack-details/189.json"
-    },
-    {
       "identifier": 188,
       "name": "Cute Girl Stickers 4 (Anahita Hashem)",
       "publisher": "Raj Dhakar",

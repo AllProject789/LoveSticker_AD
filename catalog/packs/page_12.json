@@ -2,19 +2,6 @@
   "page": 12,
   "packs": [
     {
-      "identifier": 214,
-      "name": "Couple Love Stickers 26 (Animated)",
-      "publisher": "Raj Dhakar",
-      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/214/tray.png",
-      "premium": "true",
-      "animated": "true",
-      "downloads": "16.5 K",
-      "size": "5 MB",
-      "created": "3 years ago",
-      "sticker_count": 15,
-      "details_file": "catalog/pack-details/214.json"
-    },
-    {
       "identifier": 300,
       "name": "Love Stickers 53",
       "publisher": "Raj Dhakar",

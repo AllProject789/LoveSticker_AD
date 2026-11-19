@@ -41,19 +41,6 @@
       "details_file": "catalog/pack-details/17.json"
     },
     {
-      "identifier": 127,
-      "name": "Marry Christmas Stickers 1",
-      "publisher": "Raj Dhakar",
-      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/127/tray.png",
-      "premium": "false",
-      "animated": "false",
-      "downloads": "128",
-      "size": "366 KB",
-      "created": "5 years ago",
-      "sticker_count": 15,
-      "details_file": "catalog/pack-details/127.json"
-    },
-    {
       "identifier": 129,
       "name": "Marry Christmas Stickers 2",
       "publisher": "Raj Dhakar",

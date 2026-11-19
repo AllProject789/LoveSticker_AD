@@ -65,19 +65,6 @@
       "created": "3 years ago",
       "sticker_count": 22,
       "details_file": "catalog/pack-details/60.json"
-    },
-    {
-      "identifier": 248,
-      "name": "Couple Love Stickers 35",
-      "publisher": "Raj Dhakar",
-      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/248/tray.png",
-      "premium": "true",
-      "animated": "false",
-      "downloads": "10.96 K",
-      "size": "534 KB",
-      "created": "3 years ago",
-      "sticker_count": 21,
-      "details_file": "catalog/pack-details/248.json"
     }
   ]
 }

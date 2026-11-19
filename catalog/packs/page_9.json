@@ -2,19 +2,6 @@
   "page": 9,
   "packs": [
     {
-      "identifier": 247,
-      "name": "Couple Kissing Stickers 20",
-      "publisher": "Raj Dhakar",
-      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/247/tray.png",
-      "premium": "true",
-      "animated": "false",
-      "downloads": "27.28 K",
-      "size": "260 KB",
-      "created": "3 years ago",
-      "sticker_count": 30,
-      "details_file": "catalog/pack-details/247.json"
-    },
-    {
       "identifier": 12,
       "name": "You & I",
       "publisher": "Raj Dhakar",

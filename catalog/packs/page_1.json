@@ -2,19 +2,6 @@
   "page": 1,
   "packs": [
     {
-      "identifier": 369,
-      "name": "Hot Couple Love Stickers 39 (Animated)",
-      "publisher": "Raj Dhakar",
-      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/369/tray.png",
-      "premium": "true",
-      "animated": "true",
-      "downloads": "3.46 K",
-      "size": "7 MB",
-      "created": "8 months ago",
-      "sticker_count": 20,
-      "details_file": "catalog/pack-details/369.json"
-    },
-    {
       "identifier": 368,
       "name": "Couple Kissing Stickers 30",
       "publisher": "Raj Dhakar",

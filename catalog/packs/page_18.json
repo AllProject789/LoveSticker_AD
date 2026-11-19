@@ -2,19 +2,6 @@
   "page": 18,
   "packs": [
     {
-      "identifier": 259,
-      "name": "Couple Love Stickers 37",
-      "publisher": "Raj Dhakar",
-      "tray_image_url": "https://raw.githubusercontent.com/AllProject789/LoveSticker_AD/main/images/packs/259/tray.png",
-      "premium": "true",
-      "animated": "false",
-      "downloads": "3.21 K",
-      "size": "734 KB",
-      "created": "4 years ago",
-      "sticker_count": 30,
-      "details_file": "catalog/pack-details/259.json"
-    },
-    {
       "identifier": 258,
       "name": "Madly About You Love Stickers",
       "publisher": "Raj Dhakar",
